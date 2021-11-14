@@ -6,6 +6,10 @@
 ██║ ╚████║   ██║   ███████╗╚███╔███╔╝
 ╚═╝  ╚═══╝   ╚═╝   ╚══════╝ ╚══╝╚══╝ 
 --]]
+
+local player = game.Players.LocalPlayer
+player.PlayerGui.NyewGUI:Destroy()
+
 _ACp2pW74da2fFkoA, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
