@@ -6,10 +6,15 @@
 ██║ ╚████║   ██║   ███████╗╚███╔███╔╝
 ╚═╝  ╚═══╝   ╚═╝   ╚══════╝ ╚══╝╚══╝ 
 --]]
-if game.Players.LocalPlayer.PlayerGui.ScreenGui:FindFirstChild("NyewGUI") then
-    local player = game.Players.LocalPlayer
-    player.PlayerGui.NyewGUI:Destroy()
-end
+
+--[[
+ cash tool is the worst hub for dh i ever seen lol
+ version: alpha 1
+--]]
+
+local player = game.Players.LocalPlayer
+player.PlayerGui.NyewGUI:Destroy()
+wait(1)
 
 _ACp2pW74da2fFkoA, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
